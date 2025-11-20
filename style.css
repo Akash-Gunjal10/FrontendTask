@@ -102,10 +102,10 @@ input.error {
             margin: auto;
             margin-bottom: 20px;
         }
-        /* Custom override to ensure red border is very visible if needed */
+        
         .form-control.is-invalid {
             border-color: #dc3545;
-            background-image: none; /* Optional: removes Bootstrap's X icon */
+            background-image: none; 
         }
         .invalid-feedback {
             font-size: 0.875em;
