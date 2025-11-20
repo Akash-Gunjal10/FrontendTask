@@ -31,7 +31,7 @@ letter-spacing: 1px;
     transform: scale(1.05);
 }
 .img-mobile{
-    background:url(./images/students-studying-outdoors-stockcake.jpg) center/cover ;
+    background:url(images/students-studying-outdoors-stockcake.jpg) center/cover ;
     width: 96vw;
     height: 75vh;
     margin:20px 0px 0px 1rem;
@@ -39,7 +39,7 @@ letter-spacing: 1px;
 }
 @media only screen and (min-width: 550px) and (max-width: 800px) {
    .img-mobile{
-    background:url(/images/students-studying-outdoors-stockcake.jpg) center/cover ;
+    background:url(images/students-studying-outdoors-stockcake.jpg) center/cover ;
     width: 96vw;
     height: 78vh;
     margin:20px 0px 0px 10px;
@@ -56,7 +56,7 @@ letter-spacing: 1px;
 }
 @media only screen and (min-width: 320px) and (max-width: 550px) {
    .img-mobile{
-    background:url(/images/students-studying-outdoors-stockcake.jpg) center/cover ;
+    background:url(images/students-studying-outdoors-stockcake.jpg) center/cover ;
     width: 96vw;
     height: 82vh;
     margin:20px 0px 0px 7px;
@@ -75,7 +75,7 @@ letter-spacing: 1px;
 }
 @media only screen and (min-width: 791px) and  (max-width: 992px) {
    .img-mobile{
-    background:url(/images/students-studying-outdoors-stockcake.jpg) center/cover ;
+    background:url(images/students-studying-outdoors-stockcake.jpg) center/cover ;
     width: 95vw;
     height: 85vh;
     margin:20px 0px 0px 1.2rem;
