@@ -31,7 +31,7 @@ letter-spacing: 1px;
     transform: scale(1.05);
 }
 .img-mobile{
-    background:url(./images/students-studying-outdoors-stockcake.jpg) center/cover ;
+    background:url(/images/students-studying-outdoors-stockcake.jpg) center/cover ;
     width: 96vw;
     height: 75vh;
     margin:20px 0px 0px 1rem;
