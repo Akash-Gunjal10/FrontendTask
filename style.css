@@ -66,11 +66,11 @@ letter-spacing: 1px;
 
 #campus{
     flex-direction: column;
-    justify-content:between;
+    justify-content:around;
 }
 #cards{
     flex-direction: column;
-    justify-content:start;
+    justify-content:around;
 }
 
 }
