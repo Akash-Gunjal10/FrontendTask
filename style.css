@@ -33,7 +33,7 @@ letter-spacing: 1px;
 .img-mobile{
     background:url(images/students-studying-outdoors-stockcake.jpg) center/cover ;
     width: 96vw;
-    height: 70%;
+    height: 50%;
     margin:20px 0px 0px 1rem;
     border-radius: 10px;
 }
@@ -78,7 +78,7 @@ letter-spacing: 1px;
    .img-mobile{
     background:url(images/students-studying-outdoors-stockcake.jpg) center/cover ;
     width: 95vw;
-    height: 70%;
+    height: 50%;
     margin:20px 0px 0px 1.2rem;
     border-radius: 10px;
     
